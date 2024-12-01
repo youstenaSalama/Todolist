@@ -1,0 +1,5 @@
+*.exe   # Windows executables
+*.out   # Executable files on Linux/Mac
+.vscode/  # VSCode settings folder
+Thumbs.db      # Windows system file for thumbnail cache
+Desktop.ini    # Windows system file for folder settings
